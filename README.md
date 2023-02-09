@@ -63,6 +63,28 @@ A repository of Payloads for pen testing
 A list of useful payloads and bypasses for Web Application Security and Pen testing
 * [PayloadsAllThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
+Basic Linux Privilege Escalation by g0tmi1lk
+* [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 
+
+## CTF - collection of various ctf challenges
+
+Hack the Box -
+* [HacktheBox](https://app.hackthebox.com/)
+
+Try Hack Me -
+* [TryHackMe](https://tryhackme.com/)
+
+CrackMes - 
+* [CrackMes](https://crackmes.one/)
+
+Root Me -
+* [RootMe](https://www.root-me.org/?lang=en)
+
+Mobile Application Security Crackmes - 
+* [MAS Crackmes](https://mas.owasp.org/crackmes/)
+
+List of intentionally vulnerable Android apps for hacking, list by intigriti
+* [vulnerable Android apps](https://pentester.land/blog/list-of-intentionally-vulnerable-android-apps/)
 
 
