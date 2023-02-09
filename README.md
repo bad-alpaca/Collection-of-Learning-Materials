@@ -25,6 +25,27 @@ Ethical Hacking of an IoT camera by NICOLAI HELLESNES -an interesting writeup ab
 
 ## Mobile -Hacking Mainly Android related
 
+Mobile Application Penetration Testing Cheat Sheet
+* [MAP Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
+
+A collection of Mobile Hacking resources by saeidshirazi
+* [Awesome-Android-Security](https://github.com/saeidshirazi/awesome-android-security#awesome-android-security-)
+
+Mobile Application Penetration Testing Checklist by mobexler they also have a vm image for pen testing mobile
+* [Mobile Application Penetration Testing Checklist](https://mobexler.com/checklist.htm#android)
+
+A collection of android security related resources by ahishb
+* [android-security-awesome](https://github.com/ashishb/android-security-awesome#tools)
+
+Frida - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+* [Frida](https://frida.re/)
+
+Runtime Mobile Security (RMS), powered by FRIDA, is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime.
+* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
+
+Android Mobile Pentest 101 - learning resource
+* [Android Mobile Pentest 101](https://github.com/tsug0d/AndroidMobilePentest101#android-mobile-pentest-101---amp101)
+
 ## Bug Bounty/ Web PenTesting- Info about bug bounties and Web Hacking
 
 A good resource of bug bounty writeups 
@@ -66,6 +87,8 @@ A list of useful payloads and bypasses for Web Application Security and Pen test
 Basic Linux Privilege Escalation by g0tmi1lk
 * [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 
+## Malware and Reverse Engineering
+
 
 ## CTF - collection of various ctf challenges
 
@@ -86,5 +109,6 @@ Mobile Application Security Crackmes -
 
 List of intentionally vulnerable Android apps for hacking, list by intigriti
 * [vulnerable Android apps](https://pentester.land/blog/list-of-intentionally-vulnerable-android-apps/)
+
 
 
